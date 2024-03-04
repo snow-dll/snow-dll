@@ -1,0 +1,2 @@
+- Lead Developer, Backend / Implant engineer @ Harbinger C2
+- Proficient in: C / C# / asm (x86, x64, arm64, arm32, RISC-V)
